@@ -14,7 +14,7 @@ while g:
 
     #create folder
     Folder = "C:/Users/Public/Desktop/Passed"
-    #ErorBecouseFolderAlreadyCreated
+    #ErorBecouseFolderAlreadyCreated #fergtrehhrhth
     try:
         os.mkdir(Folder)
     except FileExistsError:
